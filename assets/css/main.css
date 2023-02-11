@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  height: 100vh;
+}
+
+body {
+  font-size: 1.6rem;
+}
+
+.container {
+  font-size: 1.8rem;
+}
+
+.form-group {
+  margin-bottom: 10px;
+}
