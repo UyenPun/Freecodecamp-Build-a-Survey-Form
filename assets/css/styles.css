@@ -147,7 +147,7 @@ body {
   cursor: pointer;
 }
 
-/* responsive: */
+/* responsive:   */
 
 @media only screen and (min-width: 768px) {
   #app {
@@ -158,6 +158,9 @@ body {
 @media only screen and (min-width: 576px) and (max-width: 767px) {
   #app {
     max-width: 540px;
+    /* margin-left: 1rem; */
+  }
+  form {
     margin-left: 1rem;
   }
 }
